@@ -1,1 +1,2 @@
-# project-name-number
+# synchronousBallMovement
+Ball moving synchronously
